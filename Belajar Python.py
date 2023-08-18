@@ -7,7 +7,7 @@ skill = '. Saya bisa berhitung. contoh: '
 
 a = 20
 b = 30
-Hasil = a * b
+Hasil = a / b
 
 print(menyapa + nama + '. Umur gua ' + str(Usia) + skill + "20 * 30 hasilnya " + str(Hasil))
 print('Coba tes gua soal matematika.')
